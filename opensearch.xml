@@ -4,7 +4,7 @@
   <ShortName>TuGraph Analytics</ShortName>
   <Description>Search TuGraph Analytics</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://liukaiming-alipay.github.io/tugraph-analytics/img/favicon.ico</Image>
+  <Image width="16" height="16" type="image/x-icon">https://liukaiming-alipay.github.io/tugraph-analytics/https://mdn.alipayobjects.com/huamei_qcdryc/afts/img/A*AbamQ5lxv0IAAAAAAAAAAAAADgOBAQ/original</Image>
   <Url type="text/html" method="get" template="https://liukaiming-alipay.github.io/tugraph-analytics/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://liukaiming-alipay.github.io/tugraph-analytics/opensearch.xml" />
   <moz:SearchForm>https://liukaiming-alipay.github.io/tugraph-analytics/</moz:SearchForm>
